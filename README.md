@@ -3,4 +3,5 @@
 ### Ideas for now are
 * url-shortener
 * in-built game
+* personalized news
 
