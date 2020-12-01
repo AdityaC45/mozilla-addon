@@ -1,0 +1,24 @@
+{
+    "manifest_version":2,
+    "version":"1.0",
+    "author":"Aditya Chudiwal",
+    "name":"News for you",
+    "description":"Get personalized news at single click or get a dose of your news at a time you specify",
+    "icons":{
+        "48":"icons/addon_favicon.ico"
+    },
+    "background":{
+        "scripts":["borderify.js"]
+    },
+    "browser_action":
+    {
+        "browser_style":true,
+        "default_icon":
+        {
+            "16":"icons/favicon-16x16.png",
+            "32":"icons/favicon-32x32.png"
+        },
+        "default_title":"News",
+        "default_popup":"options.html"
+    }
+}
