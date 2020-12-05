@@ -19,6 +19,6 @@
             "32":"icons/favicon-32x32.png"
         },
         "default_title":"News",
-        "default_popup":"options.html"
+        "default_popup":"popup/options.html"
     }
 }
