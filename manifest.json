@@ -3,7 +3,7 @@
     "version":"1.0",
     "author":"Aditya Chudiwal",
     "name":"News for you",
-    "description":"Get personalized news at single click or get a dose of your news at a time you specify",
+    "description":"Get news on the topic you want",
     "icons":{
         "48":"icons/addon_favicon.ico"
     },
